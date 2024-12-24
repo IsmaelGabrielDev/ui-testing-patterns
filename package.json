@@ -1,0 +1,14 @@
+{
+  "name": "cy-appactions",
+  "version": "1.0.0",
+  "description": "Exemplo de AppActions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "ismael",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
