@@ -1,0 +1,86 @@
+{
+    "success": true,
+    "categories": [
+        {
+            "_id": "67ace58c0cf0a913258b3f81",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T18:16:44.474Z",
+            "updatedAt": "2025-02-12T18:16:44.474Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ace4d10cf0a913258b3f52",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T18:13:37.708Z",
+            "updatedAt": "2025-02-12T18:13:37.708Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acc50b0cf0a913258b3d57",
+            "name": "Bolsas-02",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:58:03.909Z",
+            "updatedAt": "2025-02-12T15:58:03.909Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acbd160cf0a913258b3c92",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:24:06.560Z",
+            "updatedAt": "2025-02-12T15:24:06.560Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acba9e0cf0a913258b3c2d",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:13:34.242Z",
+            "updatedAt": "2025-02-12T15:13:34.242Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb9300cf0a913258b3c28",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:07:28.635Z",
+            "updatedAt": "2025-02-12T15:07:28.635Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb8cf0cf0a913258b3c1a",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:05:51.284Z",
+            "updatedAt": "2025-02-12T15:05:51.284Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb88d0cf0a913258b3c16",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:04:45.668Z",
+            "updatedAt": "2025-02-12T15:04:45.668Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb6f50cf0a913258b3bdc",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T14:57:57.906Z",
+            "updatedAt": "2025-02-12T14:57:57.906Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb0f70cf0a913258b3b50",
+            "name": "bolsas-teste-exercicio",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T14:32:23.316Z",
+            "updatedAt": "2025-02-12T14:32:23.316Z",
+            "__v": 0
+        }
+    ],
+    "totalCategory": 10
+}

@@ -1,7 +1,7 @@
 {
-  "name": "cy-tips",
+  "name": "cy-Intercept",
   "version": "1.0.0",
-  "description": "Dicas",
+  "description": "Cypress Intercept",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run"
